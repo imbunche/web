@@ -1,0 +1,4 @@
+My Index
+=========
+
+Some content.
